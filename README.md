@@ -105,7 +105,7 @@ cloud-fun-facts-generator/
 ## 📸 Application Preview
 
 <p align="center">
-  <img src="images/project-preview.png" alt="Cloud Fun Facts Generator" width="900">
+  <img src="./images/project-preview.png" alt="Cloud Fun Facts Generator" width="900">
 </p>
 
 ## 🔮 Future Improvements
